@@ -1,3 +1,14 @@
+v2.0.11
+-------
+- Updated ModuleManger to 4.2.3
+- Updated NearFutureProps to 0.7.2
+- Updated B9PartSwitch to 2.20.0
+- Fixed missing flag for ignoring drag cubes on a couple of endcap switchers (gotmachine)
+- Fixed harmless warning about missing transforms on sspx-adapter-125-25-1
+- Fixed warnings about missing textures on 2 Dome modules
+- Fixed missing piston widget on 2.5m base cradle
+- VABOrganizer compat
+
 v2.0.10
 -------
 - Fix EPL patch incorrect target
